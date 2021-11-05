@@ -1,0 +1,214 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media (max-width: 1150px){
+.header {
+		top:0;
+	}
+.cast-content {
+	max-width: 1150px;
+	width: 100%;
+	padding-bottom: 250px;
+	}
+.content-hd2 {
+		width: auto;
+	}
+.cast-character {
+		margin-top: 2000px;
+		font-size: 13px;
+	}
+}
+
+
+@media (max-width: 1120px){
+.cast-character {
+	margin-top: 1930px;
+	}
+}
+
+
+
+@media (max-width: 1080px){
+.cast-character {
+	margin-top: 1850px;
+	}
+.cast-content {
+	height: 50%;
+	max-width:1080px; 
+	}
+.main .list-name {
+	padding-top: 35px;
+	}
+.main .list-name li {
+	font-size: 15px;
+	}
+}
+
+
+@media (max-width: 880px){
+.content-b {
+	width: 80%;
+	}
+.content-b p {
+	font-size: 15px;
+	}
+.item-right {
+	display: none;
+	}
+		
+.hd3-h2 {
+	top: 90px;
+	font-size: 15px;
+	}
+.hd3-character {
+	top: 100px;
+	}
+.hd4-h2 {
+	font-size: 12px;
+	}
+h4 {
+	font-size: 10px;
+	}
+.cast-character {
+	margin-top: 1450px;
+	}
+.cast-content {
+	max-width: 880px;
+	}
+	
+}
+
+
+@media (max-width: 670px){
+.br-sp {
+	display: none;
+	}
+	
+.header {
+	height: 45px;
+	padding: 5px 40px;
+	max-width: 670px;
+	width: 100%;
+	top: 0;
+}
+.header .hum-icon {
+	padding-top: 5px;
+	}
+.header-logo {
+	font-size: 16px;
+	line-height: 35px;
+		}
+	
+/*メインビジュアル*/
+.container .top-wrapper {
+	height: 350px;
+	width: 100%;
+	width: 0 auto;
+}
+.cast-content {
+	max-width: 670px;
+	width: 100%;
+	height: auto;
+	padding-bottom: 135px;
+	}
+	
+.main .list-name {
+	padding-top: 20px;	
+	padding-bottom: 20px;
+	width: 70%;
+	}
+.main .list-name li {
+	font-size: 15px;
+	width: 120px;
+	height: 2.2em;
+	}
+.content-hd1 {
+	top: 300px;
+	max-width: 670px;
+	width: 100%;
+	}
+
+/*メイン*/
+.hd-intro {
+	padding-bottom: 0;
+	}
+.content-b {
+	width: 75%;
+	}
+.content-b p {
+	padding-bottom: 120px;
+	}
+.item-right {
+	display: none;	
+	}
+	
+/*相関図*/
+.hd3-character {
+	top: 50px;
+	}
+.hd3-h2 {
+	top: 50px;
+	font-size: 15px;
+	}
+.hd4-h2 {
+	font-size: 15px;
+	}
+h4 {
+	font-size: 10px;
+	}
+.cast-character {
+	margin-top: 1210px;
+	font-size: 13px;
+	}
+.casts-form {
+	padding-top: 50px;
+	}
+.cast-form p {
+	width: 90%;
+	}
+.text-left {
+	padding-left: 20px;
+	padding-right: 0;
+	}
+	
+.casts-form1, .casts-form2 {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+	
+/*フッター*/
+.footer .cast-list-1, .crew-list {
+	margin-left: 0;
+	}
+.footer-contents p {
+	font-size: 12px;
+	}
+.footer li {
+	font-size: 12px;
+	margin-right: 0;
+	width: 120px;
+	}
+.SNS-icon {
+	margin-top: 50px;
+	}
+.SNS-icon img {
+	height: 30px;
+	margin: 0 20px ;
+}
+.footer .SNS p {
+	font-size: 12px;
+	}
+.footer-copyright {
+	font-size: 10px;
+	margin-top: 30px;
+	}
+	
+}
+
+
+
+@media (max-width: 640px){
+.cast-character {
+	margin-top: 1150px;
+	}
+}
